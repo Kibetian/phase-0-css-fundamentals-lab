@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+
+header {
+  text-align: center;
+
+}
+
+
+.nav {
+  padding: 10px;
+  background-color: grey;
+
+}
+#featured-property {
+  text-align: center;
+  
+}
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
+#details {
+  float: left;
+  background-color: orange;
+  text-align: center;
+  width: 25%;
+}
